@@ -1,0 +1,5 @@
+{
+  "name": "Neon Pac-AI",
+  "description": "A retro-styled Pacman clone featuring classic arcade gameplay and an AI-powered level generator using Google Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
